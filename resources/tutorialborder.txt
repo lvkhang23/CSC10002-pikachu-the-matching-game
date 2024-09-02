@@ -1,0 +1,26 @@
+   _.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._
+ ,'_.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._`.
+( (                                                                 ) )
+ ) )                                                               ( (
+( (                                                                 ) )
+ ) )                  Press any ARROW KEY to MOVE:                 ( (
+( (            - UP Arrow Key: Moves the cursor upward.             ) )
+ ) )         - DOWN Arrow Key: Moves the cursor downward.          ( (
+( (         - LEFT Arrow Key: Moves the cursor to the left.         ) )
+ ) )       - RIGHT Arrow Key: Moves the cursor to the right.       ( (
+( (                                                                 ) )
+ ) )              To select a tile, press the spacebar.            ( (
+( (        The selected tile will be highlighted to indicate        ) )
+ ) )                   that it has been chosen.                    ( (
+( (                                                                 ) )
+ ) )      In case you want to deselect or remove the selection     ( (
+( (             from a tile, press the spacebar again.              ) )
+ ) )                                                               ( (
+( (          For a pair of tiles to match, the connection           ) )
+ ) )          between them must be one of the following:           ( (
+( (                     I-shaped      L-shaped                      ) )
+ ) )                    U-shaped      Z-shaped                     ( (
+( (                                                                 ) )
+ ) )                                                               ( (
+( (_.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._) )
+ `._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._,'
