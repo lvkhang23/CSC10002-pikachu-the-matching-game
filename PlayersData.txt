@@ -1,0 +1,15 @@
+username,password,mode,level,currentScore,highestScore,life,comboFactor
+xuongrongkhonggai,met,sliding,1,0,986,10,1
+cobekhongquangkhando,bacthosanvabangoai,sliding,1,0,546,9,1.0
+lnthao123,123456,normal,1,0,689,10,1
+hello,115889,normal,1,0,0,10,1.0
+khuvuontrenmay,15965,normal,1,0,226,10,1
+ngfett,ngfett,sliding,1,0,369,10,1
+runningtothesky,45822,normal,1,0,985,10,1.0
+nonbaohiem,225225,sliding,1,0,889,10,1.0
+haoxiang,1111,normal,1,0,663,10,1.0
+thanhowen,123,sliding,2,226,446,10,1.0
+nnhphat586,23127099,sliding,1,0,633,10,1.0
+koko,pikachu,normal,2,182,182,9,1
+iam,123,normal,1,0,1197,10,1
+pikachu,pikapika,sliding,1,0,1158,10,1
